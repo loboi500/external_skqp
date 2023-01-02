@@ -1,4 +1,3 @@
-{
-  "dirOrder": ["sample", "modules", "quick", "api", "special"],
-  "fileOrder": ["download", "build"]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:945f162cb553856b7f346d9b16cd1d2dac71d0fcb3884fbec427ec53c813ce74
+size 105

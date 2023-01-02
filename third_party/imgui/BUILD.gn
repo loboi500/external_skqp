@@ -1,20 +1,3 @@
-# Copyright 2016 Google Inc.
-#
-# Use of this source code is governed by a BSD-style license that can be
-# found in the LICENSE file.
-
-declare_args() {
-}
-
-import("../third_party.gni")
-
-third_party("imgui") {
-  public_include_dirs = [ "../externals/imgui" ]
-
-  sources = [
-    "../externals/imgui/imgui.cpp",
-    "../externals/imgui/imgui_demo.cpp",
-    "../externals/imgui/imgui_draw.cpp",
-    "../externals/imgui/imgui_widgets.cpp",
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:91dbb2f817e9813e5996671d27ad365c94b928be5870900492b66eba34148b71
+size 439

@@ -1,8 +1,3 @@
-declare_args() {
-}
-
-import("../third_party.gni")
-
-third_party("spirv-headers") {
-  public_include_dirs = [ "../externals/spirv-headers/include" ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:223fb2bed6fdfc0fbb321a201fce9d122dc82d61a9357d527abdc97457b70561
+size 148

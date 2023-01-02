@@ -1,33 +1,3 @@
-{
-  "fileOrder": [
-    "SkAutoCanvasRestore_Reference",
-    "SkBitmap_Reference",
-    "SkBlendMode_Reference",
-    "SkCanvas_Reference",
-    "SkColor_Reference",
-    "SkColor4f_Reference",
-    "SkFont_Reference",
-    "SkImage_Reference",
-    "SkImageInfo_Reference",
-    "SkIPoint_Reference",
-    "SkIRect_Reference",
-    "SkMatrix_Reference",
-    "SkPaint_Reference",
-    "SkPath_Reference",
-    "SkPicture_Reference",
-    "SkPixmap_Reference",
-    "SkPoint_Reference",
-    "SkRRect_Reference",
-    "SkRect_Reference",
-    "SkRegion_Reference",
-    "SkSurface_Reference",
-    "SkTextBlob_Reference",
-    "SkTextBlobBuilder_Reference",
-    "usingBookmaker",
-    "skcanvas_overview",
-    "skcanvas_creation",
-    "SkBlendMode_Overview",
-    "SkPath_Overview",
-    "skpaint_overview"
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:16c205b9185c72e6efb30e5762ac75a08dad011b3c9a9c4d1ed7ecd87316f203
+size 788

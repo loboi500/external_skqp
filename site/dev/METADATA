@@ -1,13 +1,3 @@
-{
-  "dirOrder": [
-    "contrib",
-    "tools",
-    "testing",
-    "design",
-    "present",
-    "runtime",
-    "chrome",
-    "sheriffing"
-  ],
-  "fileOrder": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a23bbf643454a89e9b52386c07dd422119d3236556c9760281b095255604b97d
+size 161

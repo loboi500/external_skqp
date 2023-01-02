@@ -1,29 +1,3 @@
-# Copyright 2016 Google Inc.
-#
-# Use of this source code is governed by a BSD-style license that can be
-# found in the LICENSE file.
-
-declare_args() {
-  skia_use_system_expat = is_official_build
-}
-
-import("../third_party.gni")
-
-if (skia_use_system_expat) {
-  system("expat") {
-    libs = [ "expat" ]
-  }
-} else {
-  third_party("expat") {
-    public_defines = [ "XML_STATIC" ]
-    public_include_dirs = [ "../externals/expat/lib" ]
-
-    defines = [ "HAVE_MEMMOVE" ]
-
-    sources = [
-      "../externals/expat/lib/xmlparse.c",
-      "../externals/expat/lib/xmlrole.c",
-      "../externals/expat/lib/xmltok.c",
-    ]
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b93705b75b2f7702c45f057ddc4bacb24669e1d3dd059d74e6116b939685b22
+size 620
